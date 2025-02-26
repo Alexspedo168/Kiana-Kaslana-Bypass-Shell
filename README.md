@@ -11,7 +11,7 @@ Webshell ini adalah alat sederhana namun efektif yang dirancang untuk melewati b
 
 ---
 
-## Apa Yang Baru ✨
+## ✨ Apa Yang Baru
 **Perbaikan Output Command** 🛠️: Sebelumnya, terdapat masalah di mana output dari command tidak muncul segera setelah command dijalankan.
 
 ---
